@@ -6,7 +6,7 @@ OUTPUT
 
 2) Login Page ==>
 
-![Screenshot_20250425_230929_FarmTransit](https://github.com/user-attachments/assets/54a04443-0210-41cf-901e-9b7850b139c2)
+![image](https://github.com/user-attachments/assets/3962d28e-ee70-4665-8fcf-76f422a1bb55)
 
 3) Registration Page ==>
 
